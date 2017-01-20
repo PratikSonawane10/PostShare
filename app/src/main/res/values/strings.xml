@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FacebookShare</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!--<string name="facebook_app_id">238613376577420</string>-->
+    <string name="facebook_app_id">230723567371901</string>
+    <string name="facebook_hash_ket">ga0RGNYHvNM5d0SLGQfpQWAPGJ8=</string>
+
+</resources>
